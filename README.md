@@ -12,11 +12,16 @@ You will be working on these technologies when you’re working with us.
 
 There are three rounds to this interview:
 
-**Round 1:**
+**Round 1:** NodeJS Task Round: Round 1 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
 
-**Round 2:**
+**Round 2:** ReactJS Round: Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
 
-**Round 3:**
+**Round 3:** A call with the CEO. Please keep 2 hours free for this call.
+This will be a tech screening. You'll be tested on:
+
+- Live Programming (1 hr of live programming)
+- Tech Q&A (~15 mins)
+- Culture fit. (~15 mins)
 
 **Important**: During this round:
 
@@ -25,7 +30,8 @@ There are three rounds to this interview:
 - Make sure you're the only one person in the room. We dont want to hear others when we interview you.
 - Make sure you can screenshare on Zoom. Do not call us from Zoom Web. Download a desktop client and be ready for a call.
 
-**IMPORTANT: After your interview**:
+**IMPORTANT: After your interview**: Please fill up this feedback form here:
+This will help us improve the interview process with your ideas and suggestions.
 
 ### FAQ
 
