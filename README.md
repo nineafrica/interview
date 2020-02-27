@@ -70,9 +70,9 @@ Sure, Here are few things you can check out:
 
 Website: https://nineafrica.com
 
-Our Products: https://craft.co.ke, https://pesakite.com, https://geeks.nineafrica.com, https://codestore.nineafrica.com
+Our Products: https://craft.co.ke, https://pesakite.nineafrica.com, https://geeks.nineafrica.com, https://codestore.nineafrica.com
 
-Employee Handbook: https://handbook.nineafrica.com
+Employee Handbook: https://github.com/nineafrica/Employee-Handbook
 
 More Info: Email interviews@nineafrica.com
 
